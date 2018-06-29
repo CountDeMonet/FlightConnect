@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightConnectFSX", "SimConnectSystray\FlightConnectFSX.csproj", "{8CE3F4EF-E802-42DA-AD24-3680F3A93600}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FlightConnectFSXSetup", "SimConnectSetup\SimConnectSetup.vdproj", "{58ECEF84-10FF-42E8-A2B4-3892F26DABF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Description = Flight Simulator X Vine Ripe Server
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE3F4EF-E802-42DA-AD24-3680F3A93600}.Debug|x86.ActiveCfg = Debug|x86
+		{8CE3F4EF-E802-42DA-AD24-3680F3A93600}.Debug|x86.Build.0 = Debug|x86
+		{8CE3F4EF-E802-42DA-AD24-3680F3A93600}.Release|x86.ActiveCfg = Release|x86
+		{8CE3F4EF-E802-42DA-AD24-3680F3A93600}.Release|x86.Build.0 = Release|x86
+		{58ECEF84-10FF-42E8-A2B4-3892F26DABF6}.Debug|x86.ActiveCfg = Debug
+		{58ECEF84-10FF-42E8-A2B4-3892F26DABF6}.Release|x86.ActiveCfg = Release
+		{58ECEF84-10FF-42E8-A2B4-3892F26DABF6}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
