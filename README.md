@@ -1,8 +1,6 @@
 # FlightConnect for Microsoft Flight Simulator
 
-This application was developed by Vine Ripe Software to provide instrument and navigation data from FSX to client programs like FlightGauge and FlightMap. 
-
-FlightConnect for FSX is an interface for Flight Simulator X that provides client software with navigation and instrumentation information in real time over UDP. 
+This application was developed by Vine Ripe Software to provide instrument and navigation data over UDP from FSX to client programs like FlightGauge and FlightMap. 
 
 FlightConnect for FSX is a software program property of Vine Ripe Consulting LLC. 
 
