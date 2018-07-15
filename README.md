@@ -1,8 +1,6 @@
 # FlightConnect for Microsoft Flight Simulator
 
-This application was developed by Vine Ripe Software to provide instrument and navigation data over UDP from FSX to client programs like FlightGauge and FlightMap. 
-
-FlightConnect for FSX is a software program property of Vine Ripe Consulting LLC. 
+This application was developed by Vine Ripe Software to provide instrument and navigation data over UDP from FSX to client programs like FlightGauge and FlightMap. FlightConnect for FSX is a software program property of Vine Ripe Consulting LLC. 
 
 Please see http://vineripesoftware.wordpress.com for more information about FlightConnect and to get the latest released version.
 
